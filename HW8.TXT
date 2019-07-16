@@ -2,12 +2,12 @@ HW 8
 15 July 2019
 Upward Bound 
 
-1)	What does .append() method does? 
-2)	What does .remove() method does? 
-3)	What does .extend() method does? 
-4)	What is the difference between .pop() and .clear() method? 
-5)	Friends2 = Friends.copy() 
-In the above statement- what does the variable ‘Friends2’ carry? 
+1)	What does .append() method does?  is used to append the string representation of some argument to the sequence
+2)	What does .remove() method does?  is used for removing an element of the specified index from a list. It removes an element and returns the same.
+3)	What does .extend() method does? adds the specified list elements tto the end of the current list)	
+What is the difference between .pop() and .clear() method?  pop removes the item at a specific index and returns it. Use del to remove an element by index, pop() to remove it by index if you need the returned value, and remove() to delete an element by value.
+5)	Friends2 = Friends.copy(Friends) 
+In the above statement- what does the variable â€˜Friends2â€™ carry? the variable carrys 2
 
 
 Submit the answer on Github.com directly.
